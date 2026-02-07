@@ -218,7 +218,7 @@ ___________                                   __
 \ `.___.'\  | |      | |    
  `.____ .'  '-'      '-'    
                             
-    )" << "\n\n\n\n\n" << " Help to do what?\n Seems like this app can be used by a toddler or something\n\n\n This is a little program to encrypt and decrypt text written in C++\n I know it sucks...\n Made by Zdvonix\n Visit zdvonix.github.io or do whatever you want with this piece of crap :)\n And remember: No Russian XD\n\n\n\n\n";
+    )" << "\n\n\n\n\n" << " Help to do what?\n Seems like this app can be used by a toddler or something\n\n\n This is a little program to encrypt and decrypt text written in C++\n I know it sucks...\n Made by Zdvonix\n Visit zdvonix.github.io or do whatever you want with this piece of crap :)\n\n\n\n\n";
         waitenter();
     }
 }
